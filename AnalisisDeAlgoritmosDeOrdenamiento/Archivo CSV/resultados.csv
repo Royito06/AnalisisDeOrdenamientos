@@ -1,4 +1,4 @@
-Ejecucion,Tama§o,Insercion,Burbuja,BurbujaOpt,Seleccion,MergeSort,QuickSort,HeapSort,ShellSort
+Ejecucion,Tama√±o,Insercion,Burbuja,BurbujaOpt,Seleccion,MergeSort,QuickSort,HeapSort,ShellSort
 1,10,0,0,0,0,0,0,0,0
 2,10,0,0,0,0,0,0,0,0
 3,10,0,0,0,0,0,0,0,0
@@ -1000,8 +1000,8 @@ Ejecucion,Tama§o,Insercion,Burbuja,BurbujaOpt,Seleccion,MergeSort,QuickSort,Heap
 9,1000,2045,11254,8366,5016,1305,0,934,0
 10,1000,2988,12456,8495,5834,1018,998,0,0
 ,,,,,,,,,
-Promedios por tama§o:,,,,,,,,,
-Tama§o,Insercion,Burbuja,BurbujaOpt,Seleccion,MergeSort,QuickSort,HeapSort,ShellSort,
+Promedios por tama√±o:,,,,,,,,,
+Tama√±o,Insercion,Burbuja,BurbujaOpt,Seleccion,MergeSort,QuickSort,HeapSort,ShellSort,
 10,0,0,0,0,0,0,0,0,
 20,0,0,0,0,0,0,178.3,0,
 30,0,0,0,0,0,0,0,0,
