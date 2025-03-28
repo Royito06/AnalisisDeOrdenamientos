@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1743113629 source:c:\datos\programación\c++\cursoprogramacion\tareassegundosemestre(notodas)\elordendelcaos\analisisdealgoritmosdeordenamiento\sources\generador.cpp
+	<vector>
+	<random>
+
+1743122397 source:c:\datos\programación\c++\cursoprogramacion\tareassegundosemestre(notodas)\elordendelcaos\analisisdealgoritmosdeordenamiento\sources\main.cpp
+	<iostream>
+	"../headers/Gestion.h"
+
+1743113629 c:\datos\programación\c++\cursoprogramacion\tareassegundosemestre(notodas)\elordendelcaos\analisisdealgoritmosdeordenamiento\headers\gestion.h
+	<vector>
+	<string>
+
+1743123566 source:c:\datos\programación\c++\cursoprogramacion\tareassegundosemestre(notodas)\elordendelcaos\analisisdealgoritmosdeordenamiento\sources\gestion.cpp
+	<vector>
+	<chrono>
+	<fstream>
+	<string>
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<numeric>
+	"../headers/Ordenamientos.h"
+	"../headers/Generador.h"
+
+1743114297 c:\datos\programación\c++\cursoprogramacion\tareassegundosemestre(notodas)\elordendelcaos\analisisdealgoritmosdeordenamiento\headers\ordenamientos.h
+	<vector>
+
+1743113629 c:\datos\programación\c++\cursoprogramacion\tareassegundosemestre(notodas)\elordendelcaos\analisisdealgoritmosdeordenamiento\headers\generador.h
+	<vector>
+
+1743113628 source:c:\datos\programación\c++\cursoprogramacion\tareassegundosemestre(notodas)\elordendelcaos\analisisdealgoritmosdeordenamiento\sources\ordenamientos.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<chrono>
+	<random>
+	<fstream>
+	<string>
+	"../headers/Ordenamientos.h"
+	"../headers/Gestion.h"
+
