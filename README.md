@@ -28,7 +28,7 @@ Descripción de cada algoritmo:
 
 
 Gráfica comparativa de los tiempos de ejecución obtenidos en el experimento:
-![Grafica comparativa]([https://github.com/Royito06/AnalisisDeOrdenamientos/blob/main/AnalisisDeAlgoritmosDeOrdenamiento/Grafica_Analisis_Ordenamientos.png]?raw=true)
+![Grafica comparativa](https://github.com/Royito06/AnalisisDeOrdenamientos/blob/main/DeAlgoritmosDeOrdenamiento/Grafica_Analisis_Ordenamientos.png?raw=true)
 
 
 Análisis de los resultados obtenidos:
