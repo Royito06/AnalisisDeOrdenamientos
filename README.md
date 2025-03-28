@@ -29,7 +29,7 @@ g++ -std=c++17 src/*.cpp -Iinclude -o bin/ordenamientos -O2
 <details>
 <summary> Algoritmo de Ordenamiento: Insertion Sort</summary>
 
-Insertion Sort (o "Ordenamiento por Inserción") es una técnica de ordenación que construirá la secuencia ordenada de elementos uno a la vez, comparando siempre cada elemento con los elementos ya ordenados a la izquierda e insertándolo en la posición correcta.
+Insertion Sort (Ordenamiento por Inserción) es una técnica de ordenación que construirá la secuencia ordenada de elementos uno a la vez, comparando siempre cada elemento con los elementos ya ordenados a la izquierda e insertándolo en la posición correcta.
 </details>
 
 <details>
@@ -59,13 +59,13 @@ El ordenamiento por montículos (heapsort) es un algoritmo de ordenación que ut
 <details>
 <summary> Algoritmo de Ordenamiento: Selection Sort</summary>
 
-El ordenamiento por selección mejora el ordenamiento burbuja haciendo un sólo intercambio por cada pasada a través de la lista. Para hacer esto, un ordenamiento por selección busca el valor mayor a medida que hace una pasada y, después de completar la pasada, lo pone en la ubicación correcta.
+El ordenamiento por selección (Selection sort) mejora el ordenamiento burbuja haciendo un sólo intercambio por cada pasada a través de la lista. Para hacer esto, un ordenamiento por selección busca el valor mayor a medida que hace una pasada y, después de completar la pasada, lo pone en la ubicación correcta.
 </details>
 
 <details>
 <summary> Algoritmo de Ordenamiento por Shell Sort</summary>
 
-El ordenamiento Shell es un algoritmo de ordenamiento. El método se denomina Shell en honor de su inventor Donald Shell. Su implementación original, requiere O(n²) comparaciones e intercambios en el peor caso.
+El ordenamiento Shell (Shell sort) es un algoritmo de ordenamiento. El método se denomina Shell en honor de su inventor Donald Shell. Su implementación original, requiere O(n²) comparaciones e intercambios en el peor caso.
 </details>
 
 
